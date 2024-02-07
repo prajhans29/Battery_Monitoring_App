@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Battery_Monitor_App</string>
+    <string name="battery_level">Battery Level: %.2f%%</string>
+</resources>
